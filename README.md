@@ -7,4 +7,4 @@ A simple physics based destruction game in Unreal Engine 5
 - Physics test done
 - Object blueprint
 - Adding Impulse mechanics
-
+- Working with Blueprint classes and Instances
