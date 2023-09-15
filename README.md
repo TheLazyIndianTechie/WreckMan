@@ -1,7 +1,8 @@
 # WreckMan
 A simple physics based destruction game in Unreal Engine 5
-<<<<<<< HEAD
-=======
 
+#Changelog
 - Adding a level blueprint
->>>>>>> starter-level-blueprint
+- Starter-level-blueprint
+- Physics test done
+
