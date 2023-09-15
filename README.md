@@ -8,3 +8,4 @@ A simple physics based destruction game in Unreal Engine 5
 - Object blueprint
 - Adding Impulse mechanics
 - Working with Blueprint classes and Instances
+- Spawning projectiles as actors
